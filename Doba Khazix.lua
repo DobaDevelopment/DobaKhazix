@@ -4,7 +4,7 @@ if Player.CharName ~= "Khazix" then return end
 -----------------------------------------------------------------------------
 --[Requirements]
 require("common.log")
-module("Doba Rengar", package.seeall, log.setup)
+module("Doba Khazix", package.seeall, log.setup)
 -----------------------------------------------------------------------------
 --[LUA Utilities]
 -----------------------------------------------------------------------------
